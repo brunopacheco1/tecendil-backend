@@ -6,7 +6,7 @@
     "start": "NODE_ENV=development node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "xmldoc": "^1.1.2"
   },
   "engines": {
